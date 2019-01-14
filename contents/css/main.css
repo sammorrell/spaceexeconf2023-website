@@ -150,6 +150,16 @@ hr {
   width: 100%;
 }
 
+.header-text-container {
+  font-size: 75pt;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  line-height: 60pt;
+  padding-top: 10pt;
+  font-weight: 700;
+  margin-top: 10%;
+}
+
 @media screen and (min-aspect-ratio: 4/3) {
   .header-container {
     width: 70%;
@@ -157,6 +167,18 @@ hr {
 
   .header-vertical-spacer {
     height: 15%;
+    width: 100%;
+    display: block;
+  }
+}
+
+@media screen and (min-aspect-ratio: 16/9) {
+  .header-container {
+    width: 70%;
+  }
+
+  .header-vertical-spacer {
+    height: 25%;
     width: 100%;
     display: block;
   }
@@ -222,13 +244,18 @@ header {
     font-size: 22pt;
     line-height: 24pt;
   }
+
+  .header-text-container {
+    font-size: 42pt;
+    line-height: 42pt;
+  }
 }
 
 @media only screen and (max-width: 576px) {
   
   .header-date-container h2.year { 
     font-size: 36pt;
-     line-height: 24pt;
+    line-height: 24pt;
   }
 
   .header-date-container h2.date { 
@@ -239,6 +266,11 @@ header {
   .header-date-container h3.time { 
     font-size: 20pt;
     line-height: 20pt;
+  }
+
+  .header-text-container {
+    font-size: 36pt;
+    line-height: 24pt;
   }
 }
 
