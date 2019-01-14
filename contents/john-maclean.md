@@ -1,3 +1,0 @@
-John Maclean is an experienced Science Communicator in the fields of Astronomy and Astrophysics and is an award winning Astrophotographer. John has recently been appointed as Ambassador for NASA's OSIRIS-REx asteroid sample return mission and is an Agent for the NEOShield-2 asteroid protection project. He has a special interest in Asteroids and Cometary science and is a researcher and member of the UK Meteor Monitoring Network.  
-
-An experienced presenter, John has an engaging and humorous style accompanied by extremely professional graphic and audio presentations. Combining education with entertainment, John has the ability to communicate many scientific concepts in a way that the audience both enjoys and understands.

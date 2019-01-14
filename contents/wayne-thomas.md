@@ -1,3 +1,0 @@
-During the day, Dr. Wayne Thomas is a consultant haematologist at the Plymouth Hospitals NHS Trust, specialising in iron deficiencies and authoring many important papers and guidelines in his field. However, by night he is an avid astronomer and astrophotographer. 
-
-In his talk, he'll be discussing his work he and Caradon observatory are doing down in Cornwall to develop professional, research-grade astronomy tools for educations and amateur astronomers. 
