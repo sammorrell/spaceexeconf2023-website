@@ -102,14 +102,14 @@ hr {
   left: 0px;
   z-index: -2;
   overflow-x: hidden;
-  background-image: url('../img/LLOri_hubble_4806_dark.jpg');
+  background-image: url('../img/bg.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   filter: brightness(110%) saturate(115%);
 }
 
 #background-cover {
-  background: url('../img/LLOri_hubble_4806_dark.jpg');
+  background: url('../img/bg.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   filter: brightness(60%) saturate(125%) blur(10px);
