@@ -1,0 +1,3 @@
+Ian Jones is CEO of Goonhilly Earth Station Ltd. Goonhilly is the oldest and probably the most famous satellite earth station in the world, being involved in the first trans-Atlantic TV broadcast in 1962. 
+
+Ian is also founder, managing director and owner of, Orbit Research Ltd, which operates an advanced satellite internet platform (working with Telesat, Eutelsat, Skylogic and other satellite operators) developing value-added products and services for Telemedicine, Events, IPTV Streaming, Construction and Emergency Communication.

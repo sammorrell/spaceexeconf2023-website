@@ -1,0 +1,48 @@
+
+extends layout
+
+block header
+  .container.header-container
+    .header-vertical-spacer
+    .header-logo-container
+      img.header-logo(src='/img/space-exe-conf-logo.png')
+
+    .header-date-container 
+      h2.year 2018
+      h2.date 26th May
+      h3.time 11:00 - 17:30
+      #background-cover-trigger
+
+block content
+  .container
+    .row
+      .col-md
+        !=contents['about-space-exe.md'].html
+      .col-md
+        !=contents['about-the-conference.md'].html
+    .row
+      a.programme-button(href="/pdf/programme.pdf")
+        button.btn.btn-dark Download the Programme (PDF, 13MB)
+
+  hr
+  .container
+    .row
+      .col-md
+        h1 Programme
+        include programme-table
+
+  hr
+  include speakers
+  hr
+  .container
+    .row
+      .col-12.col-lg-6
+        !=contents['getting-here.md'].html
+      .col-12.col-lg-6
+        iframe.map(src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2525.1444954487188!2d-3.532369898316259!3d50.73580882941514!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486da443e97a09db%3A0x6c6ce98e87bc1d2b!2sX-Fi+Building!5e0!3m2!1sen!2suk!4v1526422691746", frameborder="0", style="border:0", allowfullscreen)
+  
+  hr
+  .container
+    .row
+      .col-lg
+        !=contents['contact-us.md'].html

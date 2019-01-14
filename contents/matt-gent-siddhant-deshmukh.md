@@ -1,0 +1,3 @@
+We are currently 3rd year students studying Physics with Astrophysics. 
+
+Our Master’s research is aimed at simulating how stars spin between young ages (about 40 millions years old) to the current age of the sun (4.65 billion years old). In particular, we’ll be using these simulations to try and reproduce the spread that is observed within clusters of stars and investigate how this evolves as the stars ages.

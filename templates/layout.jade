@@ -1,0 +1,71 @@
+doctype html
+block vars
+  - var bodyclass = null;
+html(lang='en')
+  head
+    block head
+      meta(charset='utf-8')
+      meta(http-equiv='X-UA-Compatible', content='IE=edge,chrome=1')
+      meta(name='viewport', content='width=device-width; initial-scale=1.0')
+      title
+        block title
+          = locals.name
+      link(rel='alternate', href=locals.url+'/feed.xml', type='application/rss+xml', title=locals.description)
+      link(rel='stylesheet', href='//fonts.googleapis.com/css?family=Roboto:400,700,300')
+
+      link(rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css", integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4", crossorigin="anonymous")
+
+      link(rel='stylesheet', href=contents.css['main.css'].url)
+
+      script(src="https://code.jquery.com/jquery-3.3.1.slim.min.js", integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo", crossorigin="anonymous")
+      script(src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js", integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ", crossorigin="anonymous")
+      script(src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js", integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm", crossorigin="anonymous")
+
+      script(src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.20.3/TweenMax.min.js")
+      script(src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/ScrollMagic.js")
+      //script(src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/debug.addIndicators.min.js")
+      script(src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/animation.gsap.min.js")
+
+    script(type='text/javascript').
+      $(document).ready(function() {
+        var controller = new ScrollMagic.Controller();
+        var tween = TweenMax.to("#background-cover", 1, {className: "+=show-background"});
+        var scene = new ScrollMagic.Scene({triggerElement: "#background-cover-trigger", duration: 200, offset: -50}).setTween(tween)
+        //.addIndicators({name : 'tween css class'})
+        .addTo(controller);
+      });
+      
+
+  body(class=bodyclass)
+    div.background-image
+    div#background-cover
+    header.header
+      block header
+        div.logo
+          h1
+            a(href=locals.url)= locals.name
+          p.description= locals.description
+
+    div#content
+      .container
+        hr
+        block content
+          h2 Content Goes Here
+    footer
+        .container
+          hr
+          h2 Supported by the University of Exeter’s Alumni Annual Fund and the Students’ Guild.
+          .row
+            .col-sm
+              a(href='https://www.exeter.ac.uk/exceptional/impact/annual-fund/' target='_blank')
+                img.img-fluid(src='/img/annual-fund-logo.png')
+            .col-sm
+              a(href='https://www.exeterguild.org/' target='_blank')
+               img.img-fluid(src='/img/sp_guild_ext_white.png')
+            .col-sm
+            
+          hr
+          section.copy.center
+            p &copy; #{ new Date().getFullYear() } #{ locals.owner } &mdash; powered by&nbsp;
+              a(href='https://github.com/jnordberg/wintersmith') Wintersmith
+              //- please leave the "powered by" if you use the design
