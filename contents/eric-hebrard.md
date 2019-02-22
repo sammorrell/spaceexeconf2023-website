@@ -1,1 +1,3 @@
-Abstract Coming Soon. 
+Eric is an expert in chemical modelling of planetary atmospheres and studies a broad range of physical and chemical conditions, from the deep chill of our outer Solar System to the hazy skies of our own early Earth and further onto the blaze of the most recently discovered hot Jupiters. Within the astrophysics group at Exeter he is involved in the development and improvement of multidimensional chemical models of planetary atmospheres.
+
+In this talk, Eric will be discussing the research of his group -  using cutting edge climate models and chemical networks to understand the physics going on in a wide variety of exoplanet atmospheres, from super-Earths and hot Jupiters, and how that links back to the climate here on Earth. 
