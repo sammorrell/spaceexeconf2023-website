@@ -1,3 +1,3 @@
-David Strange is a retired farmer and has been an active astronomer and astrophotographer for the past 50 years. He is a member of the British Astronomical Association and a Fellow of the Royal Astronomical Society, as well as being the current chairman of the Norman Lockyer observatory in Sidmouth, Devon. His main interests include imaging comments, deep sky spectroscopy and the history of astronomy. 
+David Strange is a retired farmer and has been an active astronomer and astrophotographer for the past 50 years. He is a member of the British Astronomical Association and a Fellow of the Royal Astronomical Society, as well as being the current chairman of the Norman Lockyer observatory in Sidmouth, Devon. His main interests include imaging comets, deep sky spectroscopy and the history of astronomy. 
 
 In his talk he is going to take us through the history of the Norman Lockyer Observatory, and work currently being undertaken by its members. 
