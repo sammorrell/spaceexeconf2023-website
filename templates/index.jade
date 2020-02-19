@@ -22,20 +22,19 @@ block content
         !=contents['about-the-conference.md'].html
   .container
     .row 
-      a.programme-button(href='#tickets')
-        button.btn.btn-danger Tickets Available Now!
-      a.programme-button(href=contents.pdf['programme.pdf'].url)
-        button.btn.btn-dark Download the Programme&nbsp; (PDF, 8MB)
+      a.programme-button()
+        button.btn.btn-disabled Tickets Available Soon!
 
   hr
   .container
     .row
       .col-md
-        h1 2019 Programme 
-        include programme-table
+        h1 Programme
+        h3 Coming Soon
 
   hr
-  include 2019 speakers
+  h1 Speakers
+  h3 Coming Soon
 
   hr
   .container
@@ -43,10 +42,7 @@ block content
       .col-12.col-lg-6
         !=contents['getting-here.md'].html
       .col-12.col-lg-6
-        iframe.map(src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d885.0800633037047!2d-3.5340629106161305!3d50.735356156596346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x81f57b95411330d4!2sForum!5e0!3m2!1sen!2suk!4v1547721906041", frameborder="0", style="border:0", allowfullscreen)
-  
-  hr
-  include tickets 
+        iframe.map(src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2525.1051084328274!2d-3.5380750482606733!3d50.73653937448894!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486da445b95a9e95%3A0x53c5ac0d11699e0f!2sUniversity%20of%20Exeter%20Newman%20Lecture%20Theatres!5e0!3m2!1sen!2suk!4v1582154872382!5m2!1sen!2suk", frameborder="0", style="border:0", allowfullscreen)
 
   hr
   .container
