@@ -1,4 +1,0 @@
-Mike Willmott is one of the resident astronomers at Caradon Observatory, where XRT-C is based.
-As well as being an experienced astronomer, he also has the privilege of teaching GCSE Astronomy at Liskeard School and Community College. He has taught astronomy for many years with the Cornwall schools astronomy project and has even taken a group of students to work on one of the major international observatories on La Palma in the Canary islands. 
-
-Mike will be talking about his unique perspective on educating the next generation of astronomers, the outreach projects going on at Caradon, and Cornwall as a whole, and along the way imparting a load of astronomy facts that will make you go "wow!"

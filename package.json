@@ -4,5 +4,8 @@
     "underscore": "1.4.x",
     "typogr": "0.5.x"
   },
+  "devDependencies" : {
+  	"wintersmith" : "2.4.1"
+  },
   "private": "true"
 }

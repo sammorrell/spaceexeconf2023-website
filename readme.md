@@ -1,6 +1,15 @@
+# Space:Exe Conference 2020 Website
 
-# Blog
+This website is written using Wintersmith. This can be installed via
 
-The default [wintersmith](https://github.com/jnordberg/wintersmith) template
+```shell
+npm install -g wintersmith@2.4.1
+```
 
-Speakers info: https://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/
+The website can then be built using
+
+```shell
+wintersmith build
+```
+
+The website can be found in the `build` directory, which can be uploaded to the server. 
