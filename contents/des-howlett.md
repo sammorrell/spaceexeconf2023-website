@@ -1,1 +1,3 @@
-Abstract Coming Soon. 
+Dr Des Howlett has been keen on Astronomy from a very young age, having followed the various space programmes as a child and beyond. Since moving to the Southwest, he has become a member of the Norman Lockyer Observatory and was elected a Director in 2018. He has a particular interest in celestial mechanics and can often be found sitting quietly, looking through binoculars simply admiring the patterns of the stars.
+ 
+Professionally he is a Chartered European Engineer and works around the world teaching other engineers how to design electronics and write computer software.
