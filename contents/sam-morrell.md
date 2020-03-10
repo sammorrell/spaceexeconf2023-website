@@ -1,4 +1,4 @@
-I have just completed a PhD in the astrophysics group at the University of Exeter. My thesis explored how modern astronomical datasets can be harnessed to sharpen our thinking on a number of long-standing astrophysical problems. I may also be familiar to some, as I am the former president of Space:Exe. 
+I have just completed a PhD in the astrophysics group at the University of Exeter. My thesis explored how modern astronomical datasets can be harnessed to sharpen our thinking on a number of problems issues currently facing modern astrophysics. I may also be familiar to some, as I am the former president of Space:Exe. 
 
 In my talk, I will dive into some of the topics in my thesis by introducing you to the fundamental parameters which dictate the characteristics and evolution of all stars, and describing how we have been able to harness novel data analysis techniques and the large quantities of new and existing archival observations to measure them. I will also show you how assembling stellar samples of unprecedented size, precision and accuracy have allowed us to address some of the long-standing problems in low-mass stellar evolution and exoplanet science. 
 
