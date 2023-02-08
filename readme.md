@@ -1,4 +1,4 @@
-# Space:Exe Conference 2020 Website
+# Space:Exe Conference 2023 Website
 
 This website is written using Wintersmith. This can be installed via
 
