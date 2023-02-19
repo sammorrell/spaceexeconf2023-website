@@ -1,5 +1,0 @@
-I graduated from The University of Exeter in 2019 with a Masters degree in Natural Sciences, and now work at the Met Office as a Climate Science Communicator.
-
-The Met Office produces world-leading research on climate science, but this is often highly technical and can be difficult to understand. This is where my colleagues and I come in! We write paper summaries, produce briefings, and design infographics to explain climate research more easily, allowing people without a scientific background to understand important pieces of science. It is very difficult for people to care about new research if they cannot fully understand it, so this work is crucial for bridging the gap between scientists and policy makers.
-
-In my talk, I will give a whistle-stop tour of the work that my colleagues and I do at the Met Office to communicate the science of climate change. I will then look at how climate scientists at the Met Office use their models to draw conclusions about the climate, and highlight a few interesting pieces of climate research. 

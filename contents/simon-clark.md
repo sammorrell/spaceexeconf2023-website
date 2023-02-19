@@ -1,0 +1,5 @@
+Simon Clark is a videomaker and science communicator from Bath, UK. He finished his PhD in theoretical atmospheric physics at the University of Exeter. Prior to this he studied physics at St Peter's College, University of Oxford, obtaining his master’s degree and specialising in theoretical and atmospheric physics.
+
+He Started to create YouTube videos in 2010, his YouTube channel SimonOxfPhys initially focused on helping students from disadvantaged backgrounds apply to prestigious universities. After moving to Exeter for his PhD his video output changed to focus more on science - including two educational series about the physics of the atmosphere and the cryosphere - and vlogging about life as a graduate student. Since his PhD graduation and becoming a full-time science communicator his videos have focused on atmospheric science, with other topics such as the history of science, machine learning, and mental health also making appearances.
+
+Over the years his YouTube channel has gone from strength to strength, accruing over 460,000 subscribers and over 40 million lifetime views.

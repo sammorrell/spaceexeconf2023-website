@@ -1,7 +1,0 @@
-I am a third-year PhD student working at the University of Exeter. I am based in both the Astrophysics group and the Biophysics group as I work on applying computational techniques to biophysical problems. In particular, I look at applying code previously used for investigating protoplanetary disks to improving how we detect breast cancer. In my talk, I will discuss how I am using these two fields together and how we can use lasers to improve the current methods of detecting breast cancer.
-
-Breast cancer is one of the most common cancers, with over 50,000 women diagnosed every year in the UK alone. Improving the diagnosis pathway and also detecting cancer earlier would improve survival rates. We are aiming to use laser light to non-invasively detect biological changes that could indicate cancer. 
-
-Raman spectroscopy can be used to chemically identify molecules; of particular interest are calcifications present in breast tissue. Different calcifications are present in different types of breast tissue. Therefore, by determining which type of calcification is present, there is potential for a minimally invasive method of detecting breast cancer.
-
-The human body is a highly scattering medium which creates a problem for recovering a good signal at depth. I use computer simulations to investigate how best to design equipment that can detect these calcifications in amongst the signals from the rest of the matter in the body.
