@@ -1,8 +1,8 @@
 {
-  "baseUrl": "https://spaceexe.org/conf/2019",
+  "baseUrl": "https://spaceexe.org/conf/2023",
   "locals": {
-    "url": "https://spaceexe.org/conf/2019",
-    "name": "Space Exe Conference 2019",
+    "url": "https://spaceexe.org/conf/2023",
+    "name": "Space Exe Conference 2023",
     "owner": "Space Exe",
     "description": ""
   },

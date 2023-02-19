@@ -7,7 +7,7 @@ Once again, we have some fantastic speakers coming from the University of Exeter
 
 Stay tuned to our lastest updates on speakers and programme. Here is an example of our event last year. 
 
-To keep up to date, please do visit our [Facebook event](https://www.facebook.com/events/145065299932425/).
+To keep up to date, please do visit our [Facebook event](https://www.facebook.com/events/1346979719429250/).
 
 Everyone is welcome to come along for a single talk or for the whole day. 
 We look forward to seeing you. 
